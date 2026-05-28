@@ -14,6 +14,7 @@
 - 🌱 Exploring AI, Gemini, Web Development & Cloud
 - 💡 Passionate about innovation and community building
 - 🤝 Google Student Ambassador 2026
+-  🆔 GSA ID: 7661
 - 🚀 Gemini Campus Ambassador
 - 📍 India
 
