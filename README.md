@@ -1,110 +1,132 @@
-<h1 align="center">Hi 👋, I'm Janga Donald</h1>
+# Hi 👋, I'm Janga Donald
 
-<h3 align="center">🚀 Google Student Ambassador 2026 | Gemini Ambassador | AI & Tech Enthusiast</h3><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=900&lines=Google+Student+Ambassador+2026;Building+with+Gemini+AI;AI+%26+Technology+Enthusiast;Future+Software+Engineer;Open+Source+Learner" />
-</p><p align="center">
-<img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2026-blue?style=for-the-badge&logo=google" />
-<img src="https://img.shields.io/badge/Gemini-AI%20Explorer-8E75B2?style=for-the-badge&logo=googlebard" />
-</p>---
+<h3 align="center">🚀 Google Student Ambassador 2026 | 🤖 Gemini AI Explorer | AI & Technology Enthusiast</h3>
 
-🚀 About Me
+I am a Computer Science & Engineering (IoT) student at Ramachandra College of Engineering, passionate about Artificial Intelligence, Full Stack Development, Cloud Computing, and emerging technologies.
 
-- 🎓 CSE IoT Student
-- 🤝 Google Student Ambassador 2026
-- 🚀 Gemini Campus Ambassador
-- 🆔 GSA ID: 7661
-- 🌱 Exploring AI, Gemini, Web Development & Cloud
-- 💡 Passionate about innovation, AI, and community building
-- 📍 India
+As a Google Student Ambassador 2026, I actively explore Gemini AI, create educational technology content, and contribute to building student communities focused on innovation, learning, and responsible AI adoption.
+
+I enjoy transforming ideas into practical solutions, learning new technologies, and leveraging AI to create meaningful impact.
 
 ---
 
-🚀 Currently Working On
+## 🚀 About Me
 
-- 🤖 Gemini AI Projects
-- 🌐 Full Stack Web Development
-- ☁️ Cloud & AI Integration
-- 📚 Data Structures & Algorithms
-
----
-
-🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode" />
-</p>---
-
-🏆 Achievements
-
-- 🚀 Selected as Google Student Ambassador 2026
-- 💡 Gemini Campus Ambassador
-- 🌍 Building AI-powered student communities
-- 📚 Exploring AI tools and emerging technologies
+* 🎓 B.Tech CSE (IoT), Ramachandra College of Engineering
+* 🚀 Google Student Ambassador 2026
+* 🤖 Gemini AI Explorer & Advocate
+* 🌐 Full Stack Development Enthusiast
+* ☁️ Cloud Computing Learner
+* 💡 Passionate about Innovation, AI & Community Building
+* 🌍 Based in India
+* 🎯 Aspiring Software Engineer
 
 ---
 
-🏆 GitHub Trophies
+## 🚀 Google Student Ambassador Journey
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jangadonald-hue&theme=tokyonight&row=1&column=6" />
-</p>---
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jangadonald-hue&show_icons=true&theme=tokyonight" />
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jangadonald-hue&theme=tokyonight" />
-</p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangadonald-hue&layout=compact&theme=tokyonight" />
-</p>---
-
-🚀 Featured Projects
-
-🤖 Gemini AI Projects
-
-- AI Chatbot using Gemini API
-- Smart Resume Analyzer
-- AI Study Assistant
-- AI Notes Generator
-
-💻 Development Projects
-
-- Portfolio Website
-- Web Applications
-- College Projects
-- Open Source Learning Projects
+* Selected as Google Student Ambassador 2026
+* Promoting AI awareness through Gemini
+* Creating educational content for students
+* Building technology-focused student communities
+* Exploring practical applications of Artificial Intelligence
+* Supporting student learning and innovation initiatives
 
 ---
 
-📜 Certifications
+## 🛠️ Tech Stack
 
-- Google Student Ambassador 2026
-- AI & Cloud Certifications
-- Web Development Certifications
+* HTML
+* CSS
+* JavaScript
+* Python
+* Java
+* C
+* Git
+* GitHub
+* MySQL
+* VS Code
 
 ---
 
-🌐 Connect With Me
+## 🚀 Currently Learning
 
-<p align="left"><a href="https://github.com/jangadonald-hue">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a><a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a><a href="mailto:jangadonald@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></p>---
+* Gemini AI
+* Full Stack Web Development
+* Cloud Technologies
+* Data Structures & Algorithms
+* Open Source Development
 
-👀 Profile Views
+---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=jangadonald-hue&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>---
+## 📈 Community Impact
 
-💭 Quote
+* AI Awareness Campaigns
+* Student Learning Initiatives
+* Technology Outreach Activities
+* Innovation & Leadership Programs
+* Community Building Through Technology
+
+---
+
+## 🤖 AI & Gemini Projects
+
+* AI Study Assistant
+* Smart Resume Analyzer
+* AI Notes Generator
+* Gemini Prompt Collection
+* Student Productivity Tools
+
+---
+
+## 💻 Development Projects
+
+* Personal Portfolio Website
+* Full Stack Web Applications
+* Academic Projects
+* Open Source Learning Projects
+
+---
+
+## 🏆 Achievements
+
+* Google Student Ambassador 2026
+* AI & Emerging Technology Advocate
+* Student Community Builder
+* Technology Enthusiast
+
+---
+
+## 📜 Certifications & Learning
+
+* Google Student Ambassador 2026
+* Artificial Intelligence Learning Programs
+* Cloud Computing Fundamentals
+* Web Development Certifications
+* Technology & Innovation Workshops
+
+---
+
+## 🌐 Connect With Me
+
+GitHub:
+https://github.com/jangadonald-hue
+
+LinkedIn:
+https://www.linkedin.com/in/donald-janga-455208311/
+
+Email:
+[jangadonald@gmail.com](mailto:jangadonald@gmail.com)
+
+Instagram:
+https://www.instagram.com/keys_withdon/
+
+---
+
+## 💭 Quote
 
 "Technology becomes powerful when used to empower communities."
 
 ---
 
-<h3 align="center">✨ Let's Build The Future With AI & Gemini ✨</h3>
+### ✨ Building the Future with AI, Innovation & Gemini ✨
